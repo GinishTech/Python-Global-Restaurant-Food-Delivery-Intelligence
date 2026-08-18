@@ -26,6 +26,13 @@ This project explores relationships between geography, pricing, nutrition, resta
 - **Visualization** — matplotlib, seaborn, plotly
 - **Environment** — Jupyter Notebook
 
+## 🗺️ Global Reach
+We didn't just focus on one city. This dataset captures the economic diversity of the globe:
+- **North America**: New York City, Los Angeles (High urban density, premium delivery fees)
+- **Europe**: London, Manchester (Varying cost of living and cuisine diversity)
+- **Asia**: Tokyo, Osaka, Mumbai, Delhi (Hyper-dense logistics, high volume, dynamic peak multipliers)
+- **South America**: Sao Paulo, Rio de Janeiro (Emerging market dynamics, unique price histories)
+
 ## 🔍 Key Insights
 
 - Restaurant ratings and menu pricing vary meaningfully by city, correlating more with cost-of-living than with rating quality.
