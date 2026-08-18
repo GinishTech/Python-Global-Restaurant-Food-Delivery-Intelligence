@@ -19,3 +19,27 @@ This project explores relationships between geography, pricing, nutrition, resta
 | `cities.csv` / `city_statistics.csv` | City demographics & market metrics | 10 |
 | `countries.csv` | Country-level context | 5 |
 | `cuisines.csv` | Cuisine taxonomy & region mapping | 12 |
+
+## 🛠️ Tech Stack
+
+- **Python** — pandas, numpy
+- **Visualization** — matplotlib, seaborn, plotly
+- **Environment** — Jupyter Notebook
+
+## 🔍 Key Insights
+
+- Restaurant ratings and menu pricing vary meaningfully by city, correlating more with cost-of-living than with rating quality.
+- Certain amenities (e.g. outdoor seating, WiFi) show a measurable positive lift in average restaurant rating.
+- Menu item pricing and calorie content vary significantly by food category; vegetarian items differ from non-vegetarian items in average nutrition profile.
+- A meaningful share of deliveries run later than their estimated time, and cancellation rates vary widely across restaurants.
+- Popularity score and star rating are correlated but not identical — value and consistency also drive popularity.
+
+
+Ginish Kumar — [LinkedIn](https://linkedin.com/in/ginish-kumar-544b2a1b4)
+
+[GitHub](https://github.com/GinishTech) 
+
+
+
+
+
