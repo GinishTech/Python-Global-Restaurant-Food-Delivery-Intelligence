@@ -34,7 +34,7 @@ This project explores relationships between geography, pricing, nutrition, resta
 - A meaningful share of deliveries run later than their estimated time, and cancellation rates vary widely across restaurants.
 - Popularity score and star rating are correlated but not identical — value and consistency also drive popularity.
 
-
+## 📌 Author
 Ginish Kumar — [LinkedIn](https://linkedin.com/in/ginish-kumar-544b2a1b4)
 
 [GitHub](https://github.com/GinishTech) 
