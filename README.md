@@ -20,11 +20,31 @@ This project explores relationships between geography, pricing, nutrition, resta
 | `countries.csv` | Country-level context | 5 |
 | `cuisines.csv` | Cuisine taxonomy & region mapping | 12 |
 
+**Import Libraries & Color Visualization**
+<img width="800" height="550" alt="1" src="https://github.com/user-attachments/assets/3da9c2f8-8b5a-4406-85fa-f42a2574fa9f" />
+
 ## 🛠️ Tech Stack
 
 - **Python** — pandas, numpy
 - **Visualization** — matplotlib, seaborn, plotly
 - **Environment** — Jupyter Notebook
+
+
+**Nutrition Correlation Heatmap**
+<img width="800" height="480" alt="2" src="https://github.com/user-attachments/assets/61b064b1-3675-4919-b622-47a6ad2e486e" />
+
+
+**Countries By Region**
+
+<img width="706" height="550" alt="4" src="https://github.com/user-attachments/assets/3d13209c-6064-4f7c-bc9d-40de6d1fdcf1" />
+
+
+**Cumulative Restaurants**
+
+<img width="750" height="438" alt="3" src="https://github.com/user-attachments/assets/c3b3fb39-72dc-4b8f-bf7a-40277eb5b0a1" />
+
+
+
 
 ## 🗺️ Global Reach
 We didn't just focus on one city. This dataset captures the economic diversity of the globe:
